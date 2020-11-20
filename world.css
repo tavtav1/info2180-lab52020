@@ -1,1 +1,13 @@
 /* Add your own styles */
+
+header{
+    text-align: center;
+    padding: 10px;
+}
+
+main {
+    display: grid;
+    grid-column: 1fr 1fr 1fr;
+    padding: 10px;
+}
+
